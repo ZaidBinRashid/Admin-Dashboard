@@ -214,7 +214,7 @@ input{
   padding: 60px 16px 60px 0;
   grid-row: 3 / 5;
   display: grid;
-  gap: 70px;
+  gap: 48px;
 }
 
 .annbox-title{
@@ -245,7 +245,6 @@ input{
 
 #ann-updatetext{
   border-bottom-style: none;
-  padding: 0;
   margin: 0;
 }
 
